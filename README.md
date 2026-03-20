@@ -1,2 +1,3 @@
-# mini-microservice-nsb4
-Automated issue comment bot repository
+# Mini Microservice Nsb4
+
+Automated issue comment bot repository.
